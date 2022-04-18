@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+<meta charset="utf-8" />
+<title>Damian Tomczyszyn CV</title>
+  <meta name="description" content="Informatyk Damian Tomczyszyn CV." />
+  <meta name="keywords" content="it,informatyka" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <link rel="stylesheet" href="style.css" type="text/css"/>
+</head>
+
+<body>
+
+
+<!-- naglowek-->
+<div class="con">
+<div id="zdj">
+  <img src="profil.jpg"width="160" height="160">
+  </div>
+  <div class="class1">
+<div id="logo">
+<div class="tile2"><a href="str2.html">Java</a></div>
+<div class="tile2"><a href="str3.html">JAVA SCRIPT</a></div>
+<div class="tile2"><a href="str4.html">HTML</a></div>
+<div class="tile2"><a href="str5.html">CSS</a></div>
+
+  <div style="clear: both;"></div>
+</div>
+</div>
+<div id="przecinek">
+</div>
+
+<!--panel lewy -->
+<div id="nav">
+
+EDUKACJA<br/><br/><br/>
+
+
+
+  <a href="https://www.loonz.lbl.pl/" target="_blank" title="strona do placowki">lo onz</a><br/><br/>
+  
+<a href="https://www.loonz.lbl.pl/" target="_blank" title="strona do placowki">pw</a><br/><br/>
+
+<a href="https://www.loonz.lbl.pl/" target="_blank" title="strona do placowki">wsb</a><br/><br/><br/><br/>
+
+
+
+
+DODATKOWA EDUKACJA<br/><br/><br/>
+
+
+
+• Prawo jazdy kategorii B<br/><br/>
+
+
+• Warsztaty z praktykami WSB : Dlaczego nie robić „Startup-u”, tylko firmę?<br/><br/>
+
+
+• Ukończenie kursu efektywnej nauki i błyskawicznego czytania<br/><br/>
+
+
+</div>
+<!--panel centralny -->
+<div id="content">
+<h3>
+<br/>
+ 
+  JĘZYKI <br/><br/>
+  
+  
+• Polski: Ojczysty<br/>
+• Angielski: B2<br/>
+• Rosyjski: A2<br/><br/><br/>
+
+
+
+  KWALIFIKACJE<br/><br/>
+  
+  
+• Znajomość Java SE<br/>
+• Znajomość SQL<br/>
+• Znajomość HTML<br/>
+• Znajomość C++<br/>
+• Znajomość UML<br/>
+• Znajomość JIRA<br/>
+• Znajomość oprogramowania do obróbki graficznej: Gimp, Camtasia Studio, AutoCAD <br/>
+• Umiejętność korzystania z baz literatury naukowej<br/>
+• Podstawowa wiedza w obsłudze linux<br/>
+• Znajomość Pakietu Office<br/>
+  
+  </h3>
+  
+</div>
+<!--panel prawy -->
+<div id="ad">
+<br/>
+ZALETY OSOBISTE<br/><br/>
+
+
+• Dobra organizacja pracy<br/>
+• staranność<br/>
+• terminowość<br/>
+• myślenie analityczne<br/>
+• aktywne słuchanie<br/> 
+• nastawienie na współprace<br/>
+
+
+<br/><br/><br/>
+ZAINTERESOWANIA<br/><br/>
+
+
+• Gry strategiczne<br/>
+• dietetyka<br/>
+• montaż video<br/>
+• obróbka grafiki<br/>
+ 
+</div>
+<!--stopka -->
+<div id="stopka">
+
+<a href="str2.html"><img src="git.png"width="100" height="100"></a>
+<a href="https://pl.linkedin.com/in/damian-tomczyszyn-8937a8198" target="_blank"><img src="link.png"width="100" height="100"></a>
+<a href="str2.html"><img src="yt.png"width="100" height="100"></a>
+<a href="str2.html"><img src="mail.png"width="100" height="100"></a>
+</br>
+
+2022 © Damian Tomczyszyn-Portfolio </br>
+strona poswiecona przedstawieniu mojej osoby
+
+</div>
+
+</div>
+</div>
+</body>
+</html> 
